@@ -225,4 +225,4 @@ For questions about this implementation or technical details, please refer to th
 
 ---
 
-**Built with ❤️ for Alex and college students everywhere who love books!**
+**Built with ❤️ for Siva sai and college students everywhere who love books!**
