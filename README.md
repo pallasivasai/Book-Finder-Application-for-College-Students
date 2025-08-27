@@ -219,6 +219,15 @@ npm run dev
 - **README Documentation:** Comprehensive project explanation
 - **Best Practices:** TypeScript, component architecture, and modern React patterns
 
+## 👨‍💻 Author
+
+**P Siva Sai**
+
+* 💼 Open Source Contributor (GSSOC’24 Rank < 100)
+* 🌱 Passionate about Web Development & Full-Stack Projects
+
+---
+
 ## 📞 Contact & Support
 
 For questions about this implementation or technical details, please refer to the code comments and component documentation within the source files.
